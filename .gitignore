@@ -1,0 +1,11 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+BenchmarkDotNet.Artifacts/
+.DS_Store
+amd64/
+.idea
+BenchmarkM1M2/bin/
+BenchmarkM1M2/obj/
